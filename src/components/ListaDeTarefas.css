@@ -1,0 +1,14 @@
+h2{
+    font-size: 35px;
+}
+input{
+    width: 200x;
+    height: 30px;
+    margin-bottom: 5px;
+}
+li{
+    border: 1px solid black;
+}
+div ul li #btn{
+    margin-left: 20px;
+}
